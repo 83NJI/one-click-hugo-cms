@@ -9,6 +9,13 @@ blurb:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
+
+
+    <iframe width="640px" height= "480px" src=
+    "https://forms.office.com/Pages/ResponsePage.aspx?id=UyQ0yM5pe0uj4s2iGfKYXgC3g1JvT65Kj1x2kqofOdxUNzBIWDZGR1pCRTI4REEzUkhQWlIzQjhUNS4u&embed=true"
+    frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none;
+    max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen
+    mozallowfullscreen msallowfullscreen> </iframe>
 intro:
   heading: What we offer
   text: >-
